@@ -12,3 +12,13 @@ Then designed the appropriate heuristics for the A* search algorithm for two dif
 2. This part involves solving the food clearing problem. The goal is to search for the shortest path for the Pacman to collect all the food available in the maze. Note that the solution should depend only on the agent’s state, wall placement and regular food.
 
 ## A2 : Multi-Agent Search
+This assignment involves enabling the Pacman agent to act appropriately in the game where there are ghosts in the world. The Pacman still aims at eating all the dots but must plan its action taking the behaviour of the ghosts into account. This exercise will involve modeling the decision-making task as an adversarial search problem that allows the Pacman to decide actions while taking into account the behaviour of ghosts.
+
+Implemented the following adversarial search algorithms :-
+1. Minimax
+2. Alpha-Beta Pruning 
+3. Expectimax
+
+Also implemented better evaluation functions to make the agent play better.
+
+
