@@ -21,4 +21,5 @@ Implemented the following adversarial search algorithms :-
 
 Also implemented better evaluation functions to make the agent play better.
 
-
+## A3 : Decision making for teams
+Implemented the basic model of decision making for the team tries to safeguard its resources (food pellets) and tries to capture resources held by the other team.
